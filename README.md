@@ -11,7 +11,7 @@ This project has three parts and hence three views.
 
 index.html
 -----
-We have presented the three parts of our work in tabbed view. There is a bug with the Map view when loaded up via the index.html, So better load it up seperately. We will try to fix the bug soon.
+We have presented the three parts of our work in tabbed view.
 
 Part 1: overview
 -----
