@@ -1,47 +1,41 @@
-#Readme
+============================================
+BBC's 100 greatest films of the 21st Century
+============================================
+
+Readme
+-----
 In this project we have tried to come up with visualisation for Top 100 movies from the BBC 2016 database.
 
 This file also contains description of folder contents.
 This project has three parts and hence three views.
 
-###index.html###
+index.html
+-----
 We have presented the three parts of our work in tabbed view. There is a bug with the Map view when loaded up via the index.html, So better load it up seperately. We will try to fix the bug soon.
 
-###Part 1: overview###
-Folder:/
-
+Part 1: overview
+-----
 File: overview.html
 
 Description: In this part we present the overview of all the movies.
 
-###Part 2: Details view###
-Folder: details
-
+Part 2: Details view
+-----
 File: Part2.html
 
 Description: In this part we present a view where you can sort the data by various orders
 
-###Part 3: Map view###
-Folder: map
-
+Part 3: Map view
+-----
 File: world.html
 
 Description: In this view you can find the geographical information of critics
 
-#Bug tracker#
-1. Map view problem in index.html
-2. detailed view details adjust to window size instead of page size
-3. Synchronisation issue in data load
 
 
-
-
-============================================
-BBC's 100 greatest films of the 21st Century
-============================================
-
+dataset
+-----
 A dataset scrapped from the BBC website containing a list of 100 movies, and the votes that leaded to this list.
-
 
 Files
 -----
