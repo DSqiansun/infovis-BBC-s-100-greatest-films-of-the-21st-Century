@@ -21,7 +21,7 @@ Description: In this part we present the overview of all the movies.
 
 Part 2: Details view
 -----
-File: Part2.html
+File: details.html
 
 Description: In this part we present a view where you can sort the data by various orders
 
