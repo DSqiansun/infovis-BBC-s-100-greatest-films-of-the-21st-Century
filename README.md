@@ -56,8 +56,8 @@ Files
 
 
 
-.. _Top100: http://www.bbc.com/culture/story/20160819-the-21st-centurys-100-greatest-films
-.. _Votes:  http://www.bbc.com/culture/story/20160819-the-21st-centurys-100-greatest-films-who-voted
-.. _OMDbAPI:   http://www.omdbapi.com/
+- _Top100: http://www.bbc.com/culture/story/20160819-the-21st-centurys-100-greatest-films
+- _Votes:  http://www.bbc.com/culture/story/20160819-the-21st-centurys-100-greatest-films-who-voted
+- _OMDbAPI:   http://www.omdbapi.com/
 
 
